@@ -2,8 +2,6 @@
  
 Projeto-DIO
 
-![image](img/CienciaDadosUnimed.png)
-
 <h3 align="center">Geração Tech Unimed-BH - Ciência de Dados - Bootcamp DIO</h3>
 
 ## Sobre 
